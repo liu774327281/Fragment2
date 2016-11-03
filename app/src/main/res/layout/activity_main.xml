@@ -20,6 +20,7 @@
             android:layout_weight="1"
             android:button="@null"
             android:checked="true"
+            style="@style/radio_button_style"
             android:gravity="center"
             android:text="健康生活" />
 
@@ -30,6 +31,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:button="@null"
+            style="@style/radio_button_style"
             android:gravity="center"
             android:text="我的" />
     </RadioGroup>
